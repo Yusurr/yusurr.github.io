@@ -73,15 +73,41 @@ body>main article {
     flex: 1;
 }
 
+#main-content > div #facts {
+    body {
+        font-family: Arial, sans-serif;
+        background-color: #f4f4f4;
+        margin: 20px;
+    }
+    h2 {
+        color: #333;
+        text-align: center;
+    }
+    ul {
+        background-color: rgb(250, 177, 189);
+        padding: 20px;
+        border-radius: 8px;
+        box-shadow: 0 4px 8px rgb(0, 0, 0);
+        max-width: 600px;
+        margin: 0 auto;
+    }
+    li {
+        margin-bottom: 15px;
+        line-height: 1.6;
+        color: #000000;
+    }
+}
+
 form {
     text-align: center;
 }
 
 h2 {
     text-align: center;
+    padding: 20px;
 }
 
-body > footer {background-color: orange;
+body > footer {background-color: rgb(253, 171, 185);
 display: flex;
 }
 
