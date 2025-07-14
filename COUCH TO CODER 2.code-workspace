@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"name": "COUCH TO CODER 2",
+			"path": ".."
+		},
+		{
+			"name": "Social_Video_Tutorial-main",
+			"path": "../../Social_Video_Tutorial-main"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "COUCH TO CODER 2"
+	}
+}
